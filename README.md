@@ -8,7 +8,6 @@
 3.支持各种相机
 4.几乎不消耗资源 
 
-待解决：如何优化至零偏差，目前还在优化中
 一起研究交流的可以留言，邮箱damonhowe2010@gmail.com
 
 ![alt text](https://github.com/ihjmh/camera-tag-algo/blob/master/4291575352907_.pic_hd.jpg)
